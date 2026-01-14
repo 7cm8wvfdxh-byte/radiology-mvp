@@ -1671,3 +1671,7 @@ try {
 } catch {
   // ignore
 }
+<a href="/brain">
+  <Button variant="outline">Beyin Modülü</Button>
+</a>
+
